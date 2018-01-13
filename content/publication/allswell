@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Banking & Finance"
-publication_short = "In *ICA*"
+publication_short = "In JBF"
 
 # Abstract and optional shortened version.
 abstract = "We demonstrate that investor satisfaction and investment behavior are influenced substantially by the price path by which the final investor return is achieved. In a series of experiments, we analyze various different price paths. Investors are most satisfied if their assets first fall in value and then recover, and they are least satisfied with the opposite pattern, independent of whether the final return is positive or negative. Price paths systematically influence risk preferences, return beliefs, and ultimately trading decisions. Our results enable a much more holistic perspective on a wide range of topics in finance, such as the disposition effect, risk-taking behavior after previous gains and losses, and behavioral asset pricing."
@@ -53,7 +53,7 @@ url_source = "https://www.sciencedirect.com/science/article/pii/S037842661730244
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-math = true
+math = false
 
 # Does the content use source code highlighting?
 highlight = true
@@ -61,8 +61,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
