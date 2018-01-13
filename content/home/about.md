@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Why do investors, even financial professionals, often make sub-optimal decisions? And what can we do about it?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+A large part of the answer can be found in psychology. I conduct fundamental as well as practically relevant research in investor psychology ("behavioral finance") and use my insights to consult banks and insurance companies improving their products and services. Primarily, I develop and implement innovative methods to measure and assess the risk preferences of investors (“risk profiling”), taking into account the ongoing digitalization in the financial industry.
