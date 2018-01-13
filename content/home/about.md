@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
 Why do investors, even financial professionals, often make sub-optimal decisions? And what can we do about it?
 
