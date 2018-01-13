@@ -17,14 +17,14 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Professor of Finance"
-  institution = "Radboud University"
-
-[[education.courses]]
-  course = "Professor for Fintech - Experiemental Finance"
-  institution = "University of Zurich"
-
+#[[education.courses]]
+#  course = "Professor of Finance"
+#  institution = "Radboud University"
+#
+#[[education.courses]]
+#  course = "Professor for Fintech - Experiemental Finance"
+#  institution = "University of Zurich"
+#
 #[[education.courses]]
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
