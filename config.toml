@@ -59,11 +59,11 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "stefan.zeisberger@gmail.com"
+  address = "Radboud Universiteit, Heyendaalsweg 141, Elinor Ostrom Building, Postbus 9108, 6500HK Nijmegen, Netherlands"
+  address = "University of Zurich"
+  office_hours = "Email for appointment"
+  skype = "stefan.zeisberger"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
