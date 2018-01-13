@@ -1,0 +1,69 @@
++++
+title = "All’s Well That Ends Well? On the Importance of how Returns are Achieved Journal of Banking & Finance"
+
+# Date first published.
+date = "2018-01-01"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Daniel Grosshans", "Stefan Zeisberger"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "Journal of Banking & Finance"
+publication_short = "In *ICA*"
+
+# Abstract and optional shortened version.
+abstract = "We demonstrate that investor satisfaction and investment behavior are influenced substantially by the price path by which the final investor return is achieved. In a series of experiments, we analyze various different price paths. Investors are most satisfied if their assets first fall in value and then recover, and they are least satisfied with the opposite pattern, independent of whether the final return is positive or negative. Price paths systematically influence risk preferences, return beliefs, and ultimately trading decisions. Our results enable a much more holistic perspective on a wide range of topics in finance, such as the disposition effect, risk-taking behavior after previous gains and losses, and behavioral asset pricing."
+abstract_short = "Past price paths influence investor satisfaction and investment behavior."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = []
+
+# Links (optional).
+url_pdf = "pdf/my-paper-name.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
