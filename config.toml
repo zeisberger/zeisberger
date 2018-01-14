@@ -96,7 +96,7 @@ defaultContentLanguageInSubdir = false
   map_api_key = ""
   latitude = "51.819425"
   longitude = "5.867424"
-  zoom = 30
+  zoom = 12
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -105,7 +105,7 @@ defaultContentLanguageInSubdir = false
   time_format = "15:04"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
