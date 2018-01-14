@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   email = "stefan.zeisberger@gmail.com"
   address = "Radboud Universiteit, Heyendaalsweg 141, Elinor Ostrom Building, Postbus 9108, 6500HK Nijmegen, Netherlands"
   # address = "University of Zurich"
-  office_hours = "Email for appointment"
+  office_hours = "Appointment by E-mail"
   skype = "stefan.zeisberger"
   telegram = ""
 
@@ -96,7 +96,7 @@ defaultContentLanguageInSubdir = false
   map_api_key = ""
   latitude = "51.819425"
   longitude = "5.867424"
-  zoom = 15
+  zoom = 30
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
